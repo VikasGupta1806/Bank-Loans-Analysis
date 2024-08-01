@@ -14,7 +14,7 @@ This project analyzes bank loan data to gain insights into customer profiles, lo
 7. [Usage](#usage)
 8. [Results](#results)
 9. [Contributing](#contributing)
-10.[License](#license)
+10. [License](#license)
 
 ## Project Overview
 
